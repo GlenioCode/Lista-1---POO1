@@ -1,1 +1,25 @@
-  
+Lista de Questões
+Lista 1 
+1. Crie um programa que leia um valor correspondente ao salário mensal de um trabalhador e também 
+um valor de percentual de reajuste a ser atribuído. Apresentar o valor do novo salário. 
+2. Elabore um programa que receba quatro números inteiros, calcule e mostre a soma desses números. 
+3. Desenvolva um programa que receba três notas, calcule e mostre a média aritmética entre elas. 
+4. Elabore um programa que receba três notas e seus respectivos pesos, calcule e mostre a média 
+ponderada dessas notas. 
+5. Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, 
+sabendo-se que esse funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% 
+sobre o salário base. 
+6. Faça um programa para calcular e exibir a área de uma circunferência. A fórmula para a área é: A= 
+π*R², onde A é a área da circunferência, π = 3.14 e R é o raio da circunferência. O raio deve ser fornecido 
+pelo usuário.  
+7. Faça um programa para calcular e exibir a área de um triângulo de base b e altura h (area=(b*h)/2). A 
+base e a altura devem ser fornecidas pelo usuário. 
+8. Quais os valores armazenados em SOMA, NOME e TUDO, supondo-se que NUM, X, COR, DIA, TESTE 
+e TESTE2 valem, respectivamente, 5, 2, "AZUL", "TERÇA", FALSE e TRUE? 
+NOME = DIA 
+SOMA = (NUM^2/X) + (X + 1) 
+TUDO = !((TESTE || TESTE2) && (X != NUM)) 
+9. Desenvolva um programa que receba o valor dos catetos de um triângulo, calcule e mostre o valor da 
+hipotenusa. 
+10. Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, considerando 
+que este sofreu um desconto de 10%.
